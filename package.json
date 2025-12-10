@@ -1,0 +1,16 @@
+{
+  "name": "discord-qris-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord simple: !qris show QRIS image (url) for admin role",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1"
+  }
+}
